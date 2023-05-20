@@ -106,7 +106,7 @@ height: 20px;
   }
 
   .banner{
-    width: 500px;
+    width: 450px;
     height: 300px;
   }
   .art{
@@ -123,7 +123,7 @@ height: 20px;
     padding: 1rem;
     box-shadow: 0 10px 30px #d1cece;
     flex: 1;
-    max-width: 550px;
+    max-width: 500px;
   }
   article img{
     object-fit: cover;
